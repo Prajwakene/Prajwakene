@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prajwal kene
+- 👋 Hi, I’m @Prajwal N. Kene
 - 👀 I’m interested in dive deeper in Coding 
 - 🌱 I’m currently learning Full Stack Web Developement
 - 💞️ I’m looking to collaborate on making Awesome Designs
